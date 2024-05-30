@@ -22,7 +22,7 @@ public class P11{
         if(count<=10){
             System.out.print("Good job ");
         }else if (count>=n/2){
-            System.out.print("Your guess is too high ");
+            System.out.print("Your guess is toooo high ");
         }else if (count>n/4 && count<n/2){
             System.out.print("Your guess is high ");
         }else if (count<n/4&&count>n/10){
